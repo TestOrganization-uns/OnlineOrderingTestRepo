@@ -8,6 +8,7 @@ namespace OnlineOrdering.Util
 {
     public class Product
     {
+
         //Jedinstveni identifikator proizvoda - ID
         public int ProductId { get; set; }
 
